@@ -1,11 +1,11 @@
 # web-technlogies-learning
 
-Backend Languages: 
+Backend Languages: <br>
 Javascript - Nodejs <br>
-Java
-PHP
-Python
-C++ 
+Java<br>
+PHP<br>
+Python<br>
+C++ <br>
 
 ### php learning : 
 
