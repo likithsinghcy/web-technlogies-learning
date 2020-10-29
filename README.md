@@ -1,5 +1,12 @@
 # web-technlogies-learning
 
+Backend Languages: 
+Javascript - Nodejs
+Java
+PHP
+Python
+C++ 
+
 ### php learning : 
 
 PHP open source repository learning for photo identifieng 
