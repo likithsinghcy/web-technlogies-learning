@@ -16,6 +16,9 @@ PHP extension for OpenCV
 exapmles : https://github.com/php-opencv/php-opencv-examples
 
 
+### PHP docs:
+ php documentation : www.wiki.php.net
+
 ## PHP best Practice: 
   
   PHP-FIG : Moving PHP forward through collaboration and standards.
@@ -32,3 +35,19 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
  3. Firebase 
  4. Redis : key based data storage syste, 
  
+ 
+ ## PHP Frameworks:
+    1. CodeIgniter
+    2. Laravel 
+    3. Symphony
+    4. CakePHP
+    5. Yii
+    
+ ## Python Frameworks: 
+   1. Django
+   2. Flask
+ 
+ ## NodeJs frameworks
+   1. ExpressJs
+   2. Metoer 
+    
