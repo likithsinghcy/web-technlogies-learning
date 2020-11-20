@@ -20,3 +20,14 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
   
   PHP-FIG : Moving PHP forward through collaboration and standards.
   https://www.php-fig.org/
+## storing session data on the server types: 
+  Storing in sessions and storing in tokens.
+  
+  
+  ## Databases: 
+  
+ 1. Mysql or SQL
+ 2. No SQL : mongoose, mongoDb and others
+ 3. Firebase 
+ 4. Redis : key based data storage syste, 
+ 
