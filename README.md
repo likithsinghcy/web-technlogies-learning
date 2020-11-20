@@ -17,7 +17,7 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 
 
 ### PHP docs:
- php documentation : www.wiki.php.net
+ php documentation : wiki.php.net
 
 ## PHP best Practice: 
   
