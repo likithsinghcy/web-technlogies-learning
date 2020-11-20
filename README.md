@@ -20,6 +20,7 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
   
   PHP-FIG : Moving PHP forward through collaboration and standards.
   https://www.php-fig.org/
+  for standard PHP code writing practices please check here : https://github.com/php-fig
 ## storing session data on the server types: 
   Storing in sessions and storing in tokens.
   
