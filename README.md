@@ -51,3 +51,5 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
    1. ExpressJs
    2. Metoer 
     
+## PHP resources: 
+  1. PHP CookBook: https://docstore.mik.ua/orelly/webprog/pcook/index.htm
