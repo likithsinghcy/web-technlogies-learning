@@ -63,4 +63,8 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
   complete article here : https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
 
 
+
+## Web Database Applications with PHP & MySQL 
+  A book where we can find examples of PHP and mysql applications 
+  https://docstore.mik.ua/orelly/webprog/webdb/index.htm
   
