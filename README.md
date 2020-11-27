@@ -62,9 +62,17 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 
   complete article here : https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
 
-
+### BOOKS for PHP development
 
 ## Web Database Applications with PHP & MySQL 
   A book where we can find examples of PHP and mysql applications 
   https://docstore.mik.ua/orelly/webprog/webdb/index.htm
   
+
+## Programming PHP, 4th Edition
+
+  https://www.oreilly.com/library/view/programming-php-4th/9781492054122/
+
+## PHP 7: Real World Application Development
+
+  https://www.oreilly.com/library/view/php-7-real/9781787129009/
