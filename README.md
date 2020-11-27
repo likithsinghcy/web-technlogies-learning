@@ -53,3 +53,14 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
     
 ## PHP resources: 
   1. PHP CookBook: https://docstore.mik.ua/orelly/webprog/pcook/index.htm
+
+
+## Web Scraping 
+  Introduction: 
+
+  Web scraping or crawling is the fact of fetching data from a third party website by downloading and parsing the HTML code to extract the data you want.
+
+  complete article here : https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
+
+
+  
