@@ -74,5 +74,11 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
   https://www.oreilly.com/library/view/programming-php-4th/9781492054122/
 
 ## PHP 7: Real World Application Development
-
   https://www.oreilly.com/library/view/php-7-real/9781787129009/
+
+
+## Securing PHP Apps
+    https://www.oreilly.com/library/view/securing-php-apps/9781484221204/
+
+## Modular Programming with PHP 7
+      https://www.oreilly.com/library/view/modular-programming-with/9781786462954/
