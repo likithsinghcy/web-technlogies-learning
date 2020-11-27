@@ -82,3 +82,6 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 
 ## Modular Programming with PHP 7
       https://www.oreilly.com/library/view/modular-programming-with/9781786462954/
+
+# All free books of old tech before 2005
+  https://docstore.mik.ua/orelly/bookshelfs.html
