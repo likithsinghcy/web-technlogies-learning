@@ -91,3 +91,8 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 
 
     https://www.milesweb.in/hosting-faqs/all-you-need-to-know-about-web-hosting-i-o-usage-iops-limit-and-entry-processes-limit/#:~:text=web%20hosting%20solution.-,What%20Is%20Web%20Hosting%20I%2FO%20Usage%3F,second%20on%20your%20hosting%20server.
+
+
+### Cron JOBS or Scheduling tasks in PHP
+  Managing Cron Jobs With PHP
+  https://code.tutsplus.com/tutorials/managing-cron-jobs-with-php--net-19428
