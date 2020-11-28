@@ -85,3 +85,9 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 
 # All free books of old tech before 2005
   https://docstore.mik.ua/orelly/bookshelfs.html
+
+  ### Detials about Shared Hosting 
+  All You Need To Know About Web Hosting I/O Usage, IOPS Limit And Entry Processes Limit
+
+
+    https://www.milesweb.in/hosting-faqs/all-you-need-to-know-about-web-hosting-i-o-usage-iops-limit-and-entry-processes-limit/#:~:text=web%20hosting%20solution.-,What%20Is%20Web%20Hosting%20I%2FO%20Usage%3F,second%20on%20your%20hosting%20server.
