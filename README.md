@@ -100,11 +100,15 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 
   ## important links for websites 
       Useful websites for web developers. 
-      1. tinypng.com 
+      1. https://www.tinypng.com 
       It optimizes your images without dropping quality. 
-      2. grid.layoutit.com 
+      2. https://www.grid.layoutit.com 
       For rapid CSS grid layout. 
-      3. colors.lol 
+      3. https://www.colors.lol 
       superb colors palettes. 
-      4. simpleicons.org 
+      4. www.simpleicons.org 
       Simple icons is a library of free SVG icons for popular brands.
+
+      6 for getting Bootstrap Builder 
+        https://layoutit.com/build
+
