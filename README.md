@@ -110,4 +110,7 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
   Simple icons is a library of free SVG icons for popular brands.
   6. for getting Bootstrap Builder 
   https://layoutit.com/build
+  
+  ## important website for online tutorials: 
+  1. JavaScript https://javascript.info/ for javascript tutorials
 
