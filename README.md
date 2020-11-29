@@ -108,7 +108,6 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
   superb colors palettes. 
   4. www.simpleicons.org 
   Simple icons is a library of free SVG icons for popular brands.
-
-  6 for getting Bootstrap Builder 
+  6. for getting Bootstrap Builder 
   https://layoutit.com/build
 
