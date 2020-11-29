@@ -96,3 +96,15 @@ exapmles : https://github.com/php-opencv/php-opencv-examples
 ### Cron JOBS or Scheduling tasks in PHP
   Managing Cron Jobs With PHP
   https://code.tutsplus.com/tutorials/managing-cron-jobs-with-php--net-19428
+
+
+  ## important links for websites 
+      Useful websites for web developers. 
+      1. tinypng.com 
+      It optimizes your images without dropping quality. 
+      2. grid.layoutit.com 
+      For rapid CSS grid layout. 
+      3. colors.lol 
+      superb colors palettes. 
+      4. simpleicons.org 
+      Simple icons is a library of free SVG icons for popular brands.
